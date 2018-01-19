@@ -1,1 +1,1 @@
-# workshop_1.0 Adding old files again
+# workshop_1.0 so far needs composer 
